@@ -1,0 +1,6 @@
+interface:
+  display_name: "Property Lead Gen Video"
+  short_description: "Scripts, storyboards and AI prompts for property ads"
+  default_prompt: "Use $property-lead-gen-video to create three 25-second property lead generation video packages with timed scripts, storyboards, paste-ready AI video prompts and voiceover if needed."
+policy:
+  allow_implicit_invocation: true
